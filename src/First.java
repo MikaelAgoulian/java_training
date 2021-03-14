@@ -3,6 +3,13 @@ public class First {
         int a = 12;
         int b = 24;
         int c = a + b;
-        System.out.println("C value is: " + c);
+        System.out.println("      . - .");
+        System.out.println("    |   |   |");
+        System.out.println("  -   -   -   -");
+        System.out.println("-   n   a   m   e -");
+        System.out.println("  _   _   _   _");
+        System.out.println("    | . | . |");
+        System.out.println("        _");
+
     }
 }
