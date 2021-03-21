@@ -15,14 +15,13 @@ public class Lesson3 {
             if (t == 300){
                 break;
             }
-
         }
-        myMethod(arrNew);
+//        myMethod(arrNew);
     }
-    public static void myMethod (int [] r, boolean isOdd) {
-        for (int u:r) {
-            if (u%2 == 1)
-            System.out.println(u);
-        }
-    }
+//    public static void myMethod (int [] r) {
+//        for (int u:r) {
+//            if (u%2 == 1)
+//            System.out.println(u);
+//        }
+//    }
 }

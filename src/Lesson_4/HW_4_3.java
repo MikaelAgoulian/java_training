@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class HW_4_3 {
     public static void main (String [] args){
+
         int dayNumber [] = {1, 2, 3, 4, 5, 6, 7};
         String name[] = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
 
