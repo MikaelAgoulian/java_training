@@ -1,15 +1,17 @@
+package rrr;
+
 public class Lesson2 {
     public static void main(String[] args) {
 
-        int age[];
-        age = new int[5];
-        age[0] = 30;
+        int age[] = {30, 33, 36, 44, 27};
 
-
-        age[1] = 33;
-        age[2] = 36;
-        age[3] = 44;
-        age[4] = 27;
+//        int age[];
+//        age = new int[5];
+//        age[0] = 30;
+//        age[1] = 33;
+//        age[2] = 36;
+//        age[3] = 44;
+//        age[4] = 27;
 
         String name[] = {"A", "B", "C", "D", "E"};
 
