@@ -1,4 +1,4 @@
-package Lesson_4;
+package Lesson_4v2;
 import java.util.Scanner;
 
 public class HW_4_2 {
